@@ -143,4 +143,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para de
 
 ---
 
-**Feito com 💚 por [Seu Nome](https://github.com/seu-usuario)**
+**Feito com 💚 por Lucas Lima (https://github.com/lucaaslimadev)**
