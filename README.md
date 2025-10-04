@@ -7,9 +7,11 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/lucaaslimadev/Pomodoro-app-styled/graphs/commit-activity)
+[![GitHub issues](https://img.shields.io/github/issues/lucaaslimadev/Pomodoro-app-styled)](https://github.com/lucaaslimadev/Pomodoro-app-styled/issues)
+[![GitHub stars](https://img.shields.io/github/stars/lucaaslimadev/Pomodoro-app-styled)](https://github.com/lucaaslimadev/Pomodoro-app-styled/stargazers)
 
 ## 📋 Sumário
 
@@ -28,7 +30,19 @@
 
 ## 🎯 Demonstração
 
-![App Screenshot](./docs/images/Captura%20de%20Tela%202025-10-04%20às%2016.42.44.png)
+### Interface Principal
+![Tela Principal](./docs/images/Captura%20de%20Tela%202025-10-04%20às%2016.42.44.png)
+
+### Funcionalidades
+<div align="center">
+  <img src="./docs/images/Captura%20de%20Tela%202025-10-04%20às%2016.43.08.png" width="45%" alt="Timer Ativo" />
+  <img src="./docs/images/Captura%20de%20Tela%202025-10-04%20às%2016.43.20.png" width="45%" alt="Configurações" />
+</div>
+
+<div align="center">
+  <img src="./docs/images/Captura%20de%20Tela%202025-10-04%20às%2016.43.31.png" width="45%" alt="Histórico" />
+  <img src="./docs/images/Captura%20de%20Tela%202025-10-04%20às%2016.43.48.png" width="45%" alt="Tema Escuro" />
+</div>
 
 ## 📖 Sobre o Projeto
 
@@ -198,25 +212,20 @@ src/
 
 ## 🤝 Contribuição
 
-Contribuições são sempre bem-vindas! Siga os passos abaixo:
+Contribuições são sempre bem-vindas! 
 
-1. **Fork** o projeto
-2. **Crie** uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. **Commit** suas mudanças (`git commit -m 'Add: amazing feature'`)
-4. **Push** para a branch (`git push origin feature/AmazingFeature`)
-5. **Abra** um Pull Request
+Por favor, leia o [Guia de Contribuição](./CONTRIBUTING.md) para detalhes sobre nosso código de conduta e o processo para enviar pull requests.
 
-### Padrão de Commits
-- `feat:` nova funcionalidade
-- `fix:` correção de bug
-- `docs:` documentação
-- `style:` formatação
-- `refactor:` refatoração
-- `test:` testes
+### Resumo Rápido
+1. Fork o projeto
+2. Crie sua branch (`git checkout -b feature/AmazingFeature`)
+3. Commit suas mudanças (`git commit -m 'feat: add amazing feature'`)
+4. Push para a branch (`git push origin feature/AmazingFeature`)
+5. Abra um Pull Request
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ## 📞 Contato
 
