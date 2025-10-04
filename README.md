@@ -28,14 +28,7 @@
 
 ## 🎯 Demonstração
 
-### Screenshots
-
-| Tema Escuro | Tema Claro |
-|-------------|------------|
-| ![Dark Theme](./docs/images/dark-theme.png) | ![Light Theme](./docs/images/light-theme.png) |
-
-### Demo Online
-🔗 **[Acesse a aplicação](https://chronos-pomodoro.vercel.app)** *(Deploy sugerido)*
+![App Screenshot](./docs/images/Captura%20de%20Tela%202025-10-04%20às%2016.42.44.png)
 
 ## 📖 Sobre o Projeto
 
@@ -221,34 +214,16 @@ Contribuições são sempre bem-vindas! Siga os passos abaixo:
 - `refactor:` refatoração
 - `test:` testes
 
-## 🗺 Roadmap
-
-### v1.1.0
-- [ ] Notificações push
-- [ ] Integração com Spotify
-- [ ] Relatórios semanais/mensais
-
-### v1.2.0
-- [ ] Sincronização na nuvem
-- [ ] Temas personalizáveis
-- [ ] Modo equipe/colaborativo
-
-### v2.0.0
-- [ ] Aplicativo mobile (React Native)
-- [ ] Integração com calendários
-- [ ] IA para sugestões de produtividade
-
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT.
 
 ## 📞 Contato
 
 **Lucas Lima** - Desenvolvedor Frontend
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucaaslimadev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lima-789970372/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucaaslimadev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://lucaslima.dev)
 
 ---
 
